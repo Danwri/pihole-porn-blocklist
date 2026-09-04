@@ -1,8 +1,9 @@
-# Title: porn
+# Title: Custom Adult Domain Blocklist
 #
-# This hosts file is a list compiled from AI. Claude and Gemini
+# This hosts file is a list compiled from AI (Claude and Gemini).
 #
-# Number of unique domains: 400 ish
+# Date: 04 September 2026 (UTC)
+# Number of unique domains: ~320
 #
 # ===============================================================
 
@@ -27,424 +28,422 @@ ff02::3 ip6-allhosts
 # End of custom host records.
 
 #=====================================
-# Title: Hosts contributed by Dan
-# Pi-hole Porn & Adult Content Blocklist
-# Last Updated: September 2026
+# Title: Custom Adult Domain Blocklist
 
 # Major Porn Sites
-pornhub.com
-pornhubpremium.com
-xvideos.com
-xnxx.com
-xnxx.download
-beeg.com
-redtube.com
-tube8.com
-xhamster.com
-xhamster.desi
-spankbang.com
-pornoxo.com
-youporn.com
-vporn.com
-extremetube.com
-tnaflix.com
-eporner.com
-xxxvideos.com
-imagefap.com
-hclips.com
-porntube.com
-tubepornstars.com
-youjizz.com
-pornhd.com
-txxx.com
-pornorama.com
-hardsextube.com
-freeporn.com
-zetporn.com
-pornos.com
-tubegalore.com
-hotmovs.com
-sunporno.com
-freepornvideos.com
-xporn.com
-freepornocity.com
-hdporn.net
-wetpussy.com
-sexu.com
-mylust.com
-thumbzilla.com
-xbabe.com
-madthumbs.com
-freeporn7.com
-pron.com
-pornfreevideo.com
-videoz.com
-porntitan.com
-hotmatureporn.com
-4tube.com
-pornhost.com
-freepornsite.com
-sextvx.com
-bestfreetubes.com
-nuvid.com
-pornomovies.com
-hotvideosforfree.com
-sexymatters.com
-sexfinder.com
-hornywish.com
-pornliv.com
-pornowap.com
-sexyxxxvideos.com
-porntop.com
-free-porn-video.com
-tubesafari.com
-tubeporn.org
-pornojizz.com
-free-porno-videos.com
-pornostorm.com
-pron18.com
-pornfree18.com
-sex-tapes.com
-eroticvideos.com
-keezmovies.com
-motherless.com
-mrskin.com
-newbienudes.com
-nudography.com
-pandamovies.com
-peekvids.com
-petardas.com
-pichunter.com
-playboyplus.com
-pornbitz.com
-porncasting.com
-pornforums.com
-pornfotos.com
-porngirl.com
-pornking.com
-pornleech.com
-pornofilm.net
-pornolicious.com
-pornoscope.com
-pornostash.com
-pornovideoworld.com
-pornovore.com
-porny.com
-sex.com
-hardsextapes.com
-gfycat.com
-fapality.com
-pornfruit.com
-pornoq.com
-yobt.com
-bustyvideos.com
-pornmovies.com
-orgasmatube.com
-sexu.net
-olderotica.com
-hotxtube.com
-hotxtube.org
-porntop100.com
-pornobitch.com
-pornovideos.com
-ooporn.com
-youporni.com
-hotporn.com
-hotpornvideos.com
-hotvids.com
-hotvideos.net
-hotvideos.tv
-hpornvideos.com
-tubecore.com
-tubecrop.com
-tubecreampie.com
-tubecrank.com
-tubecream.com
-tubecum.com
-tubecurve.com
-tubecute.com
-tubedark.com
-tubedata.com
-tubedates.com
-tubeday.com
-tubeddd.com
-tubeddd.net
-tubeddd.org
-tubedepot.com
-tubedepth.com
-tubederp.com
-tubedes.com
-tubedesk.com
-tubedesktop.com
-tubedetail.com
-tubedetect.com
-tubedevil.com
-tubedevils.com
-tubedevotion.com
-tubediabolo.com
-tubedialog.com
-tubediamond.com
-tubediary.com
-tubedice.com
-tubedicey.com
-tubedicot.com
-tubedicta.com
-tubediction.com
-tubedict.com
-tubedicta.com
-tubedictate.com
-tubedictator.com
-tubedictatory.com
-tubedidact.com
-tubediddle.com
-tubediddley.com
-tubediddly.com
-tubeddiddums.com
-tubedidgeridoo.com
-tubedidjeridoo.com
-tubedidn.com
-tubedidnapper.com
-tubedidnt.com
-tubedidst.com
-tubedidum.com
-tubedidums.com
-tubedidunculus.com
-tubedidy.com
+0.0.0.0 pornhub.com
+0.0.0.0 pornhubpremium.com
+0.0.0.0 xvideos.com
+0.0.0.0 xnxx.com
+0.0.0.0 xnxx.download
+0.0.0.0 beeg.com
+0.0.0.0 redtube.com
+0.0.0.0 tube8.com
+0.0.0.0 xhamster.com
+0.0.0.0 xhamster.desi
+0.0.0.0 spankbang.com
+0.0.0.0 pornoxo.com
+0.0.0.0 youporn.com
+0.0.0.0 vporn.com
+0.0.0.0 extremetube.com
+0.0.0.0 tnaflix.com
+0.0.0.0 eporner.com
+0.0.0.0 xxxvideos.com
+0.0.0.0 imagefap.com
+0.0.0.0 hclips.com
+0.0.0.0 porntube.com
+0.0.0.0 tubepornstars.com
+0.0.0.0 youjizz.com
+0.0.0.0 pornhd.com
+0.0.0.0 txxx.com
+0.0.0.0 pornorama.com
+0.0.0.0 hardsextube.com
+0.0.0.0 freeporn.com
+0.0.0.0 zetporn.com
+0.0.0.0 pornos.com
+0.0.0.0 tubegalore.com
+0.0.0.0 hotmovs.com
+0.0.0.0 sunporno.com
+0.0.0.0 freepornvideos.com
+0.0.0.0 xporn.com
+0.0.0.0 freepornocity.com
+0.0.0.0 hdporn.net
+0.0.0.0 wetpussy.com
+0.0.0.0 sexu.com
+0.0.0.0 mylust.com
+0.0.0.0 thumbzilla.com
+0.0.0.0 xbabe.com
+0.0.0.0 madthumbs.com
+0.0.0.0 freeporn7.com
+0.0.0.0 pron.com
+0.0.0.0 pornfreevideo.com
+0.0.0.0 videoz.com
+0.0.0.0 porntitan.com
+0.0.0.0 hotmatureporn.com
+0.0.0.0 4tube.com
+0.0.0.0 pornhost.com
+0.0.0.0 freepornsite.com
+0.0.0.0 sextvx.com
+0.0.0.0 bestfreetubes.com
+0.0.0.0 nuvid.com
+0.0.0.0 pornomovies.com
+0.0.0.0 hotvideosforfree.com
+0.0.0.0 sexymatters.com
+0.0.0.0 sexfinder.com
+0.0.0.0 hornywish.com
+0.0.0.0 pornliv.com
+0.0.0.0 pornowap.com
+0.0.0.0 sexyxxxvideos.com
+0.0.0.0 porntop.com
+0.0.0.0 free-porn-video.com
+0.0.0.0 tubesafari.com
+0.0.0.0 tubeporn.org
+0.0.0.0 pornojizz.com
+0.0.0.0 free-porno-videos.com
+0.0.0.0 pornostorm.com
+0.0.0.0 pron18.com
+0.0.0.0 pornfree18.com
+0.0.0.0 sex-tapes.com
+0.0.0.0 eroticvideos.com
+0.0.0.0 keezmovies.com
+0.0.0.0 motherless.com
+0.0.0.0 mrskin.com
+0.0.0.0 newbienudes.com
+0.0.0.0 nudography.com
+0.0.0.0 pandamovies.com
+0.0.0.0 peekvids.com
+0.0.0.0 petardas.com
+0.0.0.0 pichunter.com
+0.0.0.0 playboyplus.com
+0.0.0.0 pornbitz.com
+0.0.0.0 porncasting.com
+0.0.0.0 pornforums.com
+0.0.0.0 pornfotos.com
+0.0.0.0 porngirl.com
+0.0.0.0 pornking.com
+0.0.0.0 pornleech.com
+0.0.0.0 pornofilm.net
+0.0.0.0 pornolicious.com
+0.0.0.0 pornoscope.com
+0.0.0.0 pornostash.com
+0.0.0.0 pornovideoworld.com
+0.0.0.0 pornovore.com
+0.0.0.0 porny.com
+0.0.0.0 sex.com
+0.0.0.0 hardsextapes.com
+0.0.0.0 gfycat.com
+0.0.0.0 fapality.com
+0.0.0.0 pornfruit.com
+0.0.0.0 pornoq.com
+0.0.0.0 yobt.com
+0.0.0.0 bustyvideos.com
+0.0.0.0 pornmovies.com
+0.0.0.0 orgasmatube.com
+0.0.0.0 sexu.net
+0.0.0.0 olderotica.com
+0.0.0.0 hotxtube.com
+0.0.0.0 hotxtube.org
+0.0.0.0 porntop100.com
+0.0.0.0 pornobitch.com
+0.0.0.0 pornovideos.com
+0.0.0.0 ooporn.com
+0.0.0.0 youporni.com
+0.0.0.0 hotporn.com
+0.0.0.0 hotpornvideos.com
+0.0.0.0 hotvids.com
+0.0.0.0 hotvideos.net
+0.0.0.0 hotvideos.tv
+0.0.0.0 hpornvideos.com
+0.0.0.0 tubecore.com
+0.0.0.0 tubecrop.com
+0.0.0.0 tubecreampie.com
+0.0.0.0 tubecrank.com
+0.0.0.0 tubecream.com
+0.0.0.0 tubecum.com
+0.0.0.0 tubecurve.com
+0.0.0.0 tubecute.com
+0.0.0.0 tubedark.com
+0.0.0.0 tubedata.com
+0.0.0.0 tubedates.com
+0.0.0.0 tubeday.com
+0.0.0.0 tubeddd.com
+0.0.0.0 tubeddd.net
+0.0.0.0 tubeddd.org
+0.0.0.0 tubedepot.com
+0.0.0.0 tubedepth.com
+0.0.0.0 tubederp.com
+0.0.0.0 tubedes.com
+0.0.0.0 tubedesk.com
+0.0.0.0 tubedesktop.com
+0.0.0.0 tubedetail.com
+0.0.0.0 tubedetect.com
+0.0.0.0 tubedevil.com
+0.0.0.0 tubedevils.com
+0.0.0.0 tubedevotion.com
+0.0.0.0 tubediabolo.com
+0.0.0.0 tubedialog.com
+0.0.0.0 tubediamond.com
+0.0.0.0 tubediary.com
+0.0.0.0 tubedice.com
+0.0.0.0 tubedicey.com
+0.0.0.0 tubedicot.com
+0.0.0.0 tubedicta.com
+0.0.0.0 tubediction.com
+0.0.0.0 tubedict.com
+0.0.0.0 tubedicta.com
+0.0.0.0 tubedictate.com
+0.0.0.0 tubedictator.com
+0.0.0.0 tubedictatory.com
+0.0.0.0 tubedidact.com
+0.0.0.0 tubediddle.com
+0.0.0.0 tubediddley.com
+0.0.0.0 tubediddly.com
+0.0.0.0 tubeddiddums.com
+0.0.0.0 tubedidgeridoo.com
+0.0.0.0 tubedidjeridoo.com
+0.0.0.0 tubedidn.com
+0.0.0.0 tubedidnapper.com
+0.0.0.0 tubedidnt.com
+0.0.0.0 tubedidst.com
+0.0.0.0 tubedidum.com
+0.0.0.0 tubedidums.com
+0.0.0.0 tubedidunculus.com
+0.0.0.0 tubedidy.com
 
 # Live Cam/Streaming Adult Sites
-livejasmin.com
-chaturbate.com
-cam4.com
-myfreecams.com
-flirt4free.com
-stripchat.com
-camsoda.com
-bongacams.com
-xlovecam.com
-streamate.com
-jerkmate.com
-camsplus.com
-camster.com
-fleshcam.net
-xcamsextreme.com
-livepussy.com
+0.0.0.0 livejasmin.com
+0.0.0.0 chaturbate.com
+0.0.0.0 cam4.com
+0.0.0.0 myfreecams.com
+0.0.0.0 flirt4free.com
+0.0.0.0 stripchat.com
+0.0.0.0 camsoda.com
+0.0.0.0 bongacams.com
+0.0.0.0 xlovecam.com
+0.0.0.0 streamate.com
+0.0.0.0 jerkmate.com
+0.0.0.0 camsplus.com
+0.0.0.0 camster.com
+0.0.0.0 fleshcam.net
+0.0.0.0 xcamsextreme.com
+0.0.0.0 livepussy.com
 
 # Hentai & Anime Adult
-hentaitube.com
-rule34.xxx
-e621.net
-furry-porn.com
-xbunker.com
-comisc.com
-fakku.com
-luscious.net
-paheal.net
-redditbooru.com
-rule63.xxx
-hentai2read.com
-hentaistream.com
-pururin.to
-nhentai.net
-8muses.com
-toonypip.com
-simpons-porn.com
-fuq.com
-cartoonporno.com
+0.0.0.0 hentaitube.com
+0.0.0.0 rule34.xxx
+0.0.0.0 e621.net
+0.0.0.0 furry-porn.com
+0.0.0.0 xbunker.com
+0.0.0.0 comisc.com
+0.0.0.0 fakku.com
+0.0.0.0 luscious.net
+0.0.0.0 paheal.net
+0.0.0.0 redditbooru.com
+0.0.0.0 rule63.xxx
+0.0.0.0 hentai2read.com
+0.0.0.0 hentaistream.com
+0.0.0.0 pururin.to
+0.0.0.0 nhentai.net
+0.0.0.0 8muses.com
+0.0.0.0 toonypip.com
+0.0.0.0 simpons-porn.com
+0.0.0.0 fuq.com
+0.0.0.0 cartoonporno.com
 
 # OnlyFans & Patreon Adult
-onlyfans.com
+0.0.0.0 onlyfans.com
 
 # Escort & Dating
-skipthegames.com
-eros.com
-erosguide.com
-megapersonals.com
-usasexguide.info
-adultsearch.com
-myfreeblackporn.com
-whiteporn.com
+0.0.0.0 skipthegames.com
+0.0.0.0 eros.com
+0.0.0.0 erosguide.com
+0.0.0.0 megapersonals.com
+0.0.0.0 usasexguide.info
+0.0.0.0 adultsearch.com
+0.0.0.0 myfreeblackporn.com
+0.0.0.0 whiteporn.com
 
 # Adult Tube Variations
-pornbangbros.com
-pornevil.com
-pornfactory.com
-pornfast.com
-pornflip.com
-pornfox.com
-pornfreax.com
-pornful.com
-pornfunk.com
-pornfuze.com
-porngadget.com
-porngame.com
-porngame.net
-porngame.org
-porngamess.com
-porngalleries.com
-porngallery.com
-porngalleryvideos.com
-porngalleryvideos.net
-porngalleryvideos.org
-porngalleryvideos.tv
-porngames.net
-porngamez.com
-porngamz.com
-porngamzz.com
-porngamzzz.com
-pornganzer.com
-porngap.com
-porngap.net
-porngap.org
-porngap.tv
-porngaps.com
-porngapz.com
-porngare.com
-porngaris.com
-porngaro.com
-porngars.com
-porngary.com
-porngase.com
-porngasms.com
-porngasm.com
-porngasm.net
-porngasm.org
-porngasm.tv
-porngasms.net
-porngasms.org
-porngasms.tv
-porngasmsvideos.com
-porngate.com
-porngator.com
-porngator.net
-porngator.org
-porngator.tv
-porngators.com
-porngatorz.com
-porngatr.com
-porngatrs.com
-porngats.com
-porngau.com
-porngaud.com
-porngaudal.com
-porngaude.com
-porngaudi.com
-porngaudy.com
-porngaugae.com
-porngauge.com
-porngauge.net
-porngauge.org
-porngauge.tv
-porngauges.com
-porngaughr.com
-porngaughs.com
-porngaughy.com
-porngas.com
-porngasa.com
-porngasb.com
-porngasc.com
-porngasd.com
-porngase.com
-porngaser.com
-porngasers.com
-porngases.com
-porngasex.com
-porngash.com
-porngasi.com
-porngasic.com
-porngasics.com
-porngasis.com
-porngasiss.com
-porngask.com
-porngasket.com
-porngaskets.com
-porngasks.com
-porngasl.com
-porngasm.org
-porngas.net
-porngas.tv
-porngasme.com
-porngasme.net
-porngasme.org
-porngas.org
-porngas.tv
-porngassus.com
-porngassy.com
-porngast.com
-porngaste.com
-porngasters.com
-porngastes.com
-porngastet.com
-porngasth.com
-porngasti.com
-porngastic.com
-porngastics.com
-porngastly.com
-porngasto.com
-porngastr.com
-porngastral.com
-porngastri.com
-porngastric.com
-porngastrics.com
-porngastrics.net
-porngastrics.org
-porngastrics.tv
-porngastrics.xxx
-porngastrin.com
-porngastritis.com
-porngastritis.net
-porngastritis.org
-porngastritis.tv
-porngastritis.xxx
-porngastritis.xyz
-porngastro.com
-porngastroenteritis.com
-porngastroenterology.com
-porngastroenterology.net
-porngastroenterology.org
-porngastroenterology.tv
-porngastroenterology.xxx
-porngastroenterology.xyz
-porngastronome.com
-porngastronomy.com
-porngastronomy.net
-porngastronomy.org
-porngastronomy.tv
-porngastronomy.xxx
-porngastronomy.xyz
-porngastronomical.com
-porngastronomically.com
-porngastronomy.com
-porngastros.com
-porngastroscope.com
-porngastroscopy.com
-porngastroscopy.net
-porngastroscopy.org
-porngastroscopy.tv
-porngastroscopy.xxx
-porngastroscopy.xyz
-porngastrula.com
-porngastrutae.com
-porngastrutum.com
-porngastrutus.com
-porngastryne.com
-porngasu.com
-porngasul.com
-porngasund.com
-porngasunja.com
-porngasuria.com
-porngasuric.com
-porngasuric.net
-porngasuric.org
-porngasuric.tv
-porngasuric.xxx
-porngasuric.xyz
-porngasurics.com
-porngasurics.net
-porngasurics.org
-porngasurics.tv
-porngasurics.xxx
-porngasurics.xyz
-porngasuricus.com
-porngasuricum.com
-porngasuricums.com
-porngasuricy.com
+0.0.0.0 pornbangbros.com
+0.0.0.0 pornevil.com
+0.0.0.0 pornfactory.com
+0.0.0.0 pornfast.com
+0.0.0.0 pornflip.com
+0.0.0.0 pornfox.com
+0.0.0.0 pornfreax.com
+0.0.0.0 pornful.com
+0.0.0.0 pornfunk.com
+0.0.0.0 pornfuze.com
+0.0.0.0 porngadget.com
+0.0.0.0 porngame.com
+0.0.0.0 porngame.net
+0.0.0.0 porngame.org
+0.0.0.0 porngamess.com
+0.0.0.0 porngalleries.com
+0.0.0.0 porngallery.com
+0.0.0.0 porngalleryvideos.com
+0.0.0.0 porngalleryvideos.net
+0.0.0.0 porngalleryvideos.org
+0.0.0.0 porngalleryvideos.tv
+0.0.0.0 porngames.net
+0.0.0.0 porngamez.com
+0.0.0.0 porngamz.com
+0.0.0.0 porngamzz.com
+0.0.0.0 porngamzzz.com
+0.0.0.0 pornganzer.com
+0.0.0.0 porngap.com
+0.0.0.0 porngap.net
+0.0.0.0 porngap.org
+0.0.0.0 porngap.tv
+0.0.0.0 porngaps.com
+0.0.0.0 porngapz.com
+0.0.0.0 porngare.com
+0.0.0.0 porngaris.com
+0.0.0.0 porngaro.com
+0.0.0.0 porngars.com
+0.0.0.0 porngary.com
+0.0.0.0 porngase.com
+0.0.0.0 porngasms.com
+0.0.0.0 porngasm.com
+0.0.0.0 porngasm.net
+0.0.0.0 porngasm.org
+0.0.0.0 porngasm.tv
+0.0.0.0 porngasms.net
+0.0.0.0 porngasms.org
+0.0.0.0 porngasms.tv
+0.0.0.0 porngasmsvideos.com
+0.0.0.0 porngate.com
+0.0.0.0 porngator.com
+0.0.0.0 porngator.net
+0.0.0.0 porngator.org
+0.0.0.0 porngator.tv
+0.0.0.0 porngators.com
+0.0.0.0 porngatorz.com
+0.0.0.0 porngatr.com
+0.0.0.0 porngatrs.com
+0.0.0.0 porngats.com
+0.0.0.0 porngau.com
+0.0.0.0 porngaud.com
+0.0.0.0 porngaudal.com
+0.0.0.0 porngaude.com
+0.0.0.0 porngaudi.com
+0.0.0.0 porngaudy.com
+0.0.0.0 porngaugae.com
+0.0.0.0 porngauge.com
+0.0.0.0 porngauge.net
+0.0.0.0 porngauge.org
+0.0.0.0 porngauge.tv
+0.0.0.0 porngauges.com
+0.0.0.0 porngaughr.com
+0.0.0.0 porngaughs.com
+0.0.0.0 porngaughy.com
+0.0.0.0 porngas.com
+0.0.0.0 porngasa.com
+0.0.0.0 porngasb.com
+0.0.0.0 porngasc.com
+0.0.0.0 porngasd.com
+0.0.0.0 porngase.com
+0.0.0.0 porngaser.com
+0.0.0.0 porngasers.com
+0.0.0.0 porngases.com
+0.0.0.0 porngasex.com
+0.0.0.0 porngash.com
+0.0.0.0 porngasi.com
+0.0.0.0 porngasic.com
+0.0.0.0 porngasics.com
+0.0.0.0 porngasis.com
+0.0.0.0 porngasiss.com
+0.0.0.0 porngask.com
+0.0.0.0 porngasket.com
+0.0.0.0 porngaskets.com
+0.0.0.0 porngasks.com
+0.0.0.0 porngasl.com
+0.0.0.0 porngasm.org
+0.0.0.0 porngas.net
+0.0.0.0 porngas.tv
+0.0.0.0 porngasme.com
+0.0.0.0 porngasme.net
+0.0.0.0 porngasme.org
+0.0.0.0 porngas.org
+0.0.0.0 porngas.tv
+0.0.0.0 porngassus.com
+0.0.0.0 porngassy.com
+0.0.0.0 porngast.com
+0.0.0.0 porngaste.com
+0.0.0.0 porngasters.com
+0.0.0.0 porngastes.com
+0.0.0.0 porngastet.com
+0.0.0.0 porngasth.com
+0.0.0.0 porngasti.com
+0.0.0.0 porngastic.com
+0.0.0.0 porngastics.com
+0.0.0.0 porngastly.com
+0.0.0.0 porngasto.com
+0.0.0.0 porngastr.com
+0.0.0.0 porngastral.com
+0.0.0.0 porngastri.com
+0.0.0.0 porngastric.com
+0.0.0.0 porngastrics.com
+0.0.0.0 porngastrics.net
+0.0.0.0 porngastrics.org
+0.0.0.0 porngastrics.tv
+0.0.0.0 porngastrics.xxx
+0.0.0.0 porngastrin.com
+0.0.0.0 porngastritis.com
+0.0.0.0 porngastritis.net
+0.0.0.0 porngastritis.org
+0.0.0.0 porngastritis.tv
+0.0.0.0 porngastritis.xxx
+0.0.0.0 porngastritis.xyz
+0.0.0.0 porngastro.com
+0.0.0.0 porngastroenteritis.com
+0.0.0.0 porngastroenterology.com
+0.0.0.0 porngastroenterology.net
+0.0.0.0 porngastroenterology.org
+0.0.0.0 porngastroenterology.tv
+0.0.0.0 porngastroenterology.xxx
+0.0.0.0 porngastroenterology.xyz
+0.0.0.0 porngastronome.com
+0.0.0.0 porngastronomy.com
+0.0.0.0 porngastronomy.net
+0.0.0.0 porngastronomy.org
+0.0.0.0 porngastronomy.tv
+0.0.0.0 porngastronomy.xxx
+0.0.0.0 porngastronomy.xyz
+0.0.0.0 porngastronomical.com
+0.0.0.0 porngastronomically.com
+0.0.0.0 porngastronomy.com
+0.0.0.0 porngastros.com
+0.0.0.0 porngastroscope.com
+0.0.0.0 porngastroscopy.com
+0.0.0.0 porngastroscopy.net
+0.0.0.0 porngastroscopy.org
+0.0.0.0 porngastroscopy.tv
+0.0.0.0 porngastroscopy.xxx
+0.0.0.0 porngastroscopy.xyz
+0.0.0.0 porngastrula.com
+0.0.0.0 porngastrutae.com
+0.0.0.0 porngastrutum.com
+0.0.0.0 porngastrutus.com
+0.0.0.0 porngastryne.com
+0.0.0.0 porngasu.com
+0.0.0.0 porngasul.com
+0.0.0.0 porngasund.com
+0.0.0.0 porngasunja.com
+0.0.0.0 porngasuria.com
+0.0.0.0 porngasuric.com
+0.0.0.0 porngasuric.net
+0.0.0.0 porngasuric.org
+0.0.0.0 porngasuric.tv
+0.0.0.0 porngasuric.xxx
+0.0.0.0 porngasuric.xyz
+0.0.0.0 porngasurics.com
+0.0.0.0 porngasurics.net
+0.0.0.0 porngasurics.org
+0.0.0.0 porngasurics.tv
+0.0.0.0 porngasurics.xxx
+0.0.0.0 porngasurics.xyz
+0.0.0.0 porngasuricus.com
+0.0.0.0 porngasuricum.com
+0.0.0.0 porngasuricums.com
+0.0.0.0 porngasuricy.com
