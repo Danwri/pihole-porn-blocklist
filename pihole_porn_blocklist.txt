@@ -25,6 +25,30 @@ ff02::3 ip6-allhosts
 #=====================================
 # Title: Custom Adult Domain Blocklist
 
+# Web Proxies & Unblockers
+croxyproxy.com
+croxyproxy.net
+croxy.network
+croxy.org
+proxysite.com
+proxysite.cloud
+proxysite.one
+proxysite.site
+proxysite.voto
+kproxy.com
+blockaway.net
+hide.me
+hidemyass.com
+whoer.net
+4399.com
+vpnbook.com
+filterbypass.me
+proxfree.com
+megaproxy.com
+zalmos.com
+hidester.com
+plainproxies.com
+
 # Major Porn Sites
 0.0.0.0 pornhub.com
 0.0.0.0 pornhubpremium.com
