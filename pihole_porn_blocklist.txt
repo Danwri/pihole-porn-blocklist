@@ -22,11 +22,6 @@ ff02::2 ip6-allrouters
 ff02::3 ip6-allhosts
 0.0.0.0 0.0.0.0
 
-# Custom host records are listed here.
-
-
-# End of custom host records.
-
 #=====================================
 # Title: Custom Adult Domain Blocklist
 
@@ -505,6 +500,7 @@ fansly.com
 loyalfans.com
 manyvids.com
 cammodels.com
+
 # Premium Creator & Subscription Platforms
 onlyfans.com
 onlyfans.net
@@ -518,3 +514,66 @@ fancentro.com
 admireme.vip
 islaprive.com
 patreon.com/adult
+
+# Explicit Manga, Hentai & Doujinshi Sites
+nhentai.net
+nhentai.to
+nhentai.xxx
+e-hentai.org
+exhentai.org
+hitomi.la
+tsumino.com
+pururin.to
+pururin.io
+hentai2read.com
+hentai2read.net
+hentainexus.com
+hentaifox.com
+hentaiera.com
+imhentai.xxx
+simply-hentai.com
+asmhentai.com
+3hentai.net
+9hentai.to
+doujin.moe
+fakku.net
+hentaicafe.com
+mangaporno.so
+readhentai.com
+
+# Image Boards & Art Aggregators (Often Explicit)
+sankakucomplex.com
+chan.sankakucomplex.com
+gelbooru.com
+danbooru.donmai.us
+rule34video.com
+rule34.world
+yande.re
+
+# Creator Archive & Leak Sites
+kemono.party
+kemono.su
+coomer.party
+coomer.su
+
+# Adult Gaming & Visual Novels
+f95zone.to
+nutaku.net
+nutaku.com
+adult-games.com
+
+# VR & High-Definition Adult Sites
+vrporn.com
+badoinkvr.com
+wankzvr.com
+czechvr.com
+daftsex.com
+epikporno.com
+hdzog.com
+hqporner.com
+
+# Additional Live Cam Networks
+cams.com
+imlive.com
+joymii.com
+babe.net
